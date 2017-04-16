@@ -19,3 +19,12 @@ files should be 'tracked' as part of the git-repository. As such, it is an
 intermediate step that lets us easily manage files we want to ultimately commit
 or decide not to commit.
 
+
+# Question: How can you use the staging area to make sure you have one commit per logical change?
+
+# My thoughts on this: The staging area is a preliminary stage before commiting
+changes to files or reverting those changes and going back to the version a file
+had before introducing any changes.
+The staging area therefore should always be filled with the files that relate
+to a logical change and then commited at once.
+
