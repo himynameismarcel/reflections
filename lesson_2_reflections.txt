@@ -60,5 +60,15 @@ respective merged branches is still reachable!
 
 
 
+# Question: What are the pros and cons of Git'S automatic mergeing vs. always doing merges manually?
+
+# My thoughts on this: Git'S automatic merging algorithm helps the user from 
+having to screen two versions (or branches) of one and the same project and
+having to dig out the differences to create one clean merged version.
+In this respect, I can see now cons to the automatic merging algorithm since 
+if I do not want to make use of this algorithm, I can always revert back to
+the manual intervention.
+
+
 
 
