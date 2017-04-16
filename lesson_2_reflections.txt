@@ -1,0 +1,21 @@
+# 16.04.2017 - Reflection Notes No. 2
+# Udacity Git and GitHub - Course
+
+# Question: What happens when you initialize a repository? Why do you need to do it?
+
+# My own thoughts on this:
+Initializing a repository creates a hidden folder called .git which then allows the
+user to track files by means of commit.
+Without git init this repository will not be created and the files in a folder are
+just ordinary files in an ordinary folder.
+
+
+
+# Question: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+# My own thoughts on this:
+As far as I understood it, the staging area allows the user to decide which
+files should be 'tracked' as part of the git-repository. As such, it is an
+intermediate step that lets us easily manage files we want to ultimately commit
+or decide not to commit.
+
