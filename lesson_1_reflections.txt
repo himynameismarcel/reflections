@@ -1,0 +1,72 @@
+# 15.04.2017 - Reflection Notes No. 1
+# Udacity Git and GitHub - Course
+
+# Question: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+# My own thoughts on it:
+I actually did not know that a diff-function existed until seeing the function's
+usage and output in today's first lesson.
+Having had a similar situation a couple of weeks ago where I wanted to compare
+the VBA-code of two versions of one and the same project I had written, seeing 
+how neatly the diff-function points to and summarizes differences in two files'
+content proves to be very valuable to know and it will for sure enhance any similar
+situations in the future where I want to compare two versions of a file.
+
+
+
+
+# Question: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+# My own thoughts on it:
+Having easy access to the entire history of a file would significantly enhance
+the development process of any project by removing the hassle of undoing certain
+actions but simply going back to a certain stage of a certain file by
+'browsing' through its version history.
+
+
+# Question: What do you think are the pros and cons of manually choosing when to create a commint, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+# My own thoughts on this:
+In my opinion and, according to what we have just learned, the concept of 'one commit per logical change' can only be handled manually since the project itself cannot distinguish between changes that logically belong together itself.
+
+
+# Question: Why do you think some version conrol systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+# My own thoughts on this:
+I can't really answer the second part of the question because actually this
+feature seems indespensabile for me. So rather than discussion the lack of 
+the function in Google Docs, I want to discuss its pros: Saving multiple
+files in one commit allows the user/programmer to subsequently move connecting
+files across the development-chain.
+
+
+
+# Question: How can you use the commands git log and git diff to view the history of files?
+
+# My own answer:
+The command git log lists all the commits and their respective IDs. Then the
+command git diff together with two IDs displays the detailed differences
+between them.
+
+# Question: How might using version control make you more confident to make changes that could break something?
+
+# My own thoughts on this:
+Using version control makes me more confident in the sense that I simply
+can focus on programming and whenever I feel like I introduced something
+that did not really work, can easily revert to the previous version of 
+my project.
+
+
+# Question: Now that you have your workspace set up, what do you want to try using Git for?
+
+# My thoughts on this: I am very excited and would want to use Git to become
+a better programmer by making use of it throughout all of my future projects.
+
+
+
+
+
+
+
+
+
