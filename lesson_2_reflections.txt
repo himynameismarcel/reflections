@@ -28,3 +28,11 @@ had before introducing any changes.
 The staging area therefore should always be filled with the files that relate
 to a logical change and then commited at once.
 
+
+# Question: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+# My thoughts on this: 
+Branches allow us to depart from linear versioning into different 'branches' of
+one and the same project. Each 'branch' has then again its own linear versioning
+history and allows to work on versions that differ in the core but have
+entirely different features or differ otherwise etc.
