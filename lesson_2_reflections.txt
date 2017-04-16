@@ -47,5 +47,18 @@ structure of our project in case we get/got lost or want to be sure where
 we are and where we want to go. Without a diagram we would have to make our
 own diagram to be able to follow-up with our projects versions.
 
+git diff 5ede836903881848fea811df5b687b59d962da3 4035769377cce96a88d5c1167079e12f30492391
+
+
+# Question: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+# My thoughts on this: Merging two branches allows to combine two branch-paths
+together into one and thereby adding features of both versions into one new
+branch incorporating both branch-paths. We represent it in the diagram in the
+way we do because by merging branches, the entire previous branch-path of the
+respective merged branches is still reachable!
+
+
+
 
 
