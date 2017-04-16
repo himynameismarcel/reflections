@@ -36,3 +36,16 @@ Branches allow us to depart from linear versioning into different 'branches' of
 one and the same project. Each 'branch' has then again its own linear versioning
 history and allows to work on versions that differ in the core but have
 entirely different features or differ otherwise etc.
+
+# very useful command:
+git log --graph --oneline master easy-mode
+git checkout -b new_branch_name
+
+# Question: How do the diagrams help you visualize the branch structure?
+# My thoughts on this: The diagrams help us to visualize the entire version
+structure of our project in case we get/got lost or want to be sure where
+we are and where we want to go. Without a diagram we would have to make our
+own diagram to be able to follow-up with our projects versions.
+
+
+
