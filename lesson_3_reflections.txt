@@ -1,8 +1,18 @@
 # Question: When would you want to create a remote repository rather than keeping all your work local?
 
-# My thoughts on this: Like any other cloud-based service, using a remote repository 
-rather than keeping all my files local adds two distinct features to our projects: 
+# My thoughts on this: Like any other cloud-based service, using a remote repository
+rather than keeping all my files local adds two distinct features to our projects:
 (1) Easy collaboration and (2) access to our files over the Web.
-So if we are working on a bigger projects together with other friends and colleagues, 
-using a remote repository opens new doors in terms of collaboration and easily allows 
-all participants to keep track of changes and modifications via the commit-history.
+So if we are working on a bigger projects together with other friends and
+colleagues, using a remote repository opens new doors in terms of collaboration and easily allows all participants to keep track of changes
+and modifications via the commit-history.
+
+# Question: Describe differences between forks, clones, and branches.
+When would you use one instead of another?
+
+# My thoughts on this:
+The three terms described are three distinct features of Git and Github.
+A fork is a copied Github-repository from another user.
+A clone is the local copy of a Github repostiroy.
+And a branch is just one distinct 'stage' of a project with the entire
+project history.
